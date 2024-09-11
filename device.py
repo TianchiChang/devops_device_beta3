@@ -6,6 +6,7 @@ import os
 import json
 from config import *
 from sanic.log import logger
+from common.utils import is_file_or_dir
 from common.logger import LOGGING_CONFIG
 from common.salt import saltenc
 from common.service_info import GetFullSystemData
@@ -18,21 +19,31 @@ def report(request):
     try:
         try:
             logger.debug('building sftp connection')
-            transport = paramiko.Transport(sock=globals()['ws_edge'])
-            transport.connect(None, username=device_id, password=saltenc(device_id))
+            transport = paramiko.Transport(sftp_host, sftp_port)
+            transport.connect(None, username=sftp_usrname, password=sftp_pwd)
             logger.debug('sftp connection built successfully')
         except Exception:
             logger.debug('build sftp connection error')
         # 尝试传输日志文件
         try:
             sftp = paramiko.SFTPClient.from_transport(transport)
-            for f in os.listdir(log_path): # 遍历设备操作日志目录，将所有的logfile上传
-                sftp.put(log_path+f, remote_log_path+f)
+            for f in os.listdir(sftp_log_pth):
+                if is_file_or_dir(f):
+                    sftp.put(sftp_log_pth+f, sftp_remote_log_pth+f)
+                else:
+                    for ff in os.listdir(sftp_log_pth+f):
+                        if is_file_or_dir(ff):
+                            sftp.put(sftp_log_pth+f+"/"+ff, sftp_remote_log_pth+f+"/"+ff)
+                        else:
+                            for fff in os.listdir(sftp_log_pth+f+"/"+ff):
+                                if is_file_or_dir(fff):
+                                    sftp.put(sftp_log_pth+f+"/"+ff+"/"+fff, sftp_remote_log_pth+f+"/"+ff+"/"+fff)    
             transport.close()
         except Exception:
             logger.debug('sftp transport process error')
         finally:
             logger.info()
+        return "success"
     except Exception:
         logger.error('sftp error')
     finally:
@@ -54,30 +65,7 @@ async def connect_edge(edge_app):
                 while True:
                     resp = await ws.recv()
                     resp = json.loads(resp)
-                    if resp["method"] == "report":
-                            logger.info('receive report command')
-                            try:
-                                try:
-                                    logger.info('sftp log transport process start')
-                                    # transport = paramiko.Transport(sock=ws)
-                                    # transport = paramiko.Transport(edge_host, edge_port)
-                                    # transport.connect(None, username=device_id, password=saltenc(device_id))
-                                    logger.debug('sftp connection built successfully')
-                                except Exception:
-                                    logger.error('build sftp connection error')
-                                # 尝试传输日志文件
-                                try:
-                                    # sftp = paramiko.SFTPClient.from_transport(transport)
-                                    sftp = paramiko.SFTPClient.from_transport(ws)
-                                    for f in os.listdir(log_path): # 遍历设备操作日志目录，将所有的logfile上传
-                                        sftp.put(log_path+f, remote_log_path+f)
-                                    # transport.close()
-                                except Exception:
-                                    logger.error('sftp transport process error')
-                            except Exception:
-                                logger.error('sftp error')
-                            finally:
-                                logger.debug('logs sftp upload finish')
+                    print(resp)
         logger.info('websocket to edge end')   
     except Exception:
         logger.error('websocket with edge process error')
