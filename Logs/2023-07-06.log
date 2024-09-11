@@ -1,0 +1,1382 @@
+{"asctime": "[2023-07-06 17:33:38 -0700]", "process": 26704, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 17:33:38 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 17:33:38 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 17:33:38 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 17:33:38 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 17:33:38 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 17:33:39 -0700]", "process": 26704, "levelname": "INFO", "message": "Starting worker [26704]"}
+{"asctime": "[2023-07-06 17:34:15 -0700]", "process": 26704, "levelname": "INFO", "message": "Stopping worker [26704]"}
+{"asctime": "[2023-07-06 17:34:15 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 17:34:15 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 17:34:15 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 17:34:15 -0700]", "process": 26704, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 17:34:15 -0700]", "process": 26704, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "INFO", "message": "Starting worker [26757]"}
+{"asctime": "[2023-07-06 17:35:31 -0700]", "process": 26757, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 17:35:43 -0700]", "process": 26757, "levelname": "INFO", "message": "Stopping worker [26757]"}
+{"asctime": "[2023-07-06 17:35:43 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 17:35:43 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 17:35:43 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 17:35:43 -0700]", "process": 26757, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 17:35:43 -0700]", "process": 26757, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "INFO", "message": "Starting worker [26832]"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 18:01:38 -0700]", "process": 26832, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 18:01:46 -0700]", "process": 26832, "levelname": "INFO", "message": "Stopping worker [26832]"}
+{"asctime": "[2023-07-06 18:01:46 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:01:46 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:01:46 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:01:46 -0700]", "process": 26832, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:01:46 -0700]", "process": 26832, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "INFO", "message": "Starting worker [26870]"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 18:07:35 -0700]", "process": 26870, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 18:07:41 -0700]", "process": 26870, "levelname": "INFO", "message": "Stopping worker [26870]"}
+{"asctime": "[2023-07-06 18:07:41 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:07:41 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:07:41 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:07:41 -0700]", "process": 26870, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:07:41 -0700]", "process": 26870, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "INFO", "message": "Starting worker [26893]"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 18:09:50 -0700]", "process": 26893, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 18:09:55 -0700]", "process": 26893, "levelname": "INFO", "message": "Stopping worker [26893]"}
+{"asctime": "[2023-07-06 18:09:55 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:09:55 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:09:55 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:09:55 -0700]", "process": 26893, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:09:55 -0700]", "process": 26893, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "INFO", "message": "Starting worker [26922]"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 18:16:44 -0700]", "process": 26922, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 18:16:49 -0700]", "process": 26922, "levelname": "INFO", "message": "Stopping worker [26922]"}
+{"asctime": "[2023-07-06 18:16:49 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:16:49 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:16:49 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:16:49 -0700]", "process": 26922, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:16:49 -0700]", "process": 26922, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "INFO", "message": "Starting worker [26953]"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 18:20:12 -0700]", "process": 26953, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 18:20:15 -0700]", "process": 26953, "levelname": "INFO", "message": "Stopping worker [26953]"}
+{"asctime": "[2023-07-06 18:20:15 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:20:15 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:20:15 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:20:15 -0700]", "process": 26953, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:20:15 -0700]", "process": 26953, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:24:27 -0700]", "process": 26978, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:24:27 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:24:27 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:24:27 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:24:27 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:24:27 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:24:27 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:24:27 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "INFO", "message": "Starting worker [26978]"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 18:24:28 -0700]", "process": 26978, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 18:24:31 -0700]", "process": 26978, "levelname": "INFO", "message": "Stopping worker [26978]"}
+{"asctime": "[2023-07-06 18:24:31 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:24:31 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:24:31 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:24:31 -0700]", "process": 26978, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:24:31 -0700]", "process": 26978, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "INFO", "message": "Starting worker [27030]"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 18:30:20 -0700]", "process": 27030, "levelname": "INFO", "message": "websocket auth successfully"}
+{"asctime": "[2023-07-06 18:30:30 -0700]", "process": 27030, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 18:30:36 -0700]", "process": 27030, "levelname": "INFO", "message": "Stopping worker [27030]"}
+{"asctime": "[2023-07-06 18:30:36 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:30:36 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:30:36 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:30:36 -0700]", "process": 27030, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:30:36 -0700]", "process": 27030, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "INFO", "message": "Starting worker [27066]"}
+{"asctime": "[2023-07-06 18:34:29 -0700]", "process": 27066, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 18:34:32 -0700]", "process": 27066, "levelname": "INFO", "message": "Stopping worker [27066]"}
+{"asctime": "[2023-07-06 18:34:32 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:34:32 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:34:32 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:34:32 -0700]", "process": 27066, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:34:32 -0700]", "process": 27066, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "INFO", "message": "Starting worker [27090]"}
+{"asctime": "[2023-07-06 18:37:42 -0700]", "process": 27090, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 18:38:39 -0700]", "process": 27090, "levelname": "INFO", "message": "Stopping worker [27090]"}
+{"asctime": "[2023-07-06 18:38:39 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:38:39 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:38:39 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:38:39 -0700]", "process": 27090, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:38:39 -0700]", "process": 27090, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "INFO", "message": "Starting worker [27111]"}
+{"asctime": "[2023-07-06 18:38:41 -0700]", "process": 27111, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 18:43:35 -0700]", "process": 27111, "levelname": "INFO", "message": "Stopping worker [27111]"}
+{"asctime": "[2023-07-06 18:43:35 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:43:35 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:43:35 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:43:35 -0700]", "process": 27111, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:43:35 -0700]", "process": 27111, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "INFO", "message": "Starting worker [27135]"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 18:43:37 -0700]", "process": 27135, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 18:45:40 -0700]", "process": 27135, "levelname": "INFO", "message": "Stopping worker [27135]"}
+{"asctime": "[2023-07-06 18:45:40 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:45:40 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:45:40 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:45:40 -0700]", "process": 27135, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:45:40 -0700]", "process": 27135, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:45:41 -0700]", "process": 27155, "levelname": "INFO", "message": "Starting worker [27155]"}
+{"asctime": "[2023-07-06 18:46:19 -0700]", "process": 27155, "levelname": "INFO", "message": "Stopping worker [27155]"}
+{"asctime": "[2023-07-06 18:46:19 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:46:19 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:46:19 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:46:19 -0700]", "process": 27155, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:46:19 -0700]", "process": 27155, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "INFO", "message": "Starting worker [27176]"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 18:46:25 -0700]", "process": 27176, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 18:46:31 -0700]", "process": 27176, "levelname": "INFO", "message": "Stopping worker [27176]"}
+{"asctime": "[2023-07-06 18:46:31 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:46:31 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:46:31 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:46:31 -0700]", "process": 27176, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:46:31 -0700]", "process": 27176, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "INFO", "message": "Starting worker [27197]"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 18:47:29 -0700]", "process": 27197, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 18:47:32 -0700]", "process": 27197, "levelname": "INFO", "message": "Stopping worker [27197]"}
+{"asctime": "[2023-07-06 18:47:32 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:47:32 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:47:32 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:47:32 -0700]", "process": 27197, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:47:32 -0700]", "process": 27197, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "INFO", "message": "Starting worker [27221]"}
+{"asctime": "[2023-07-06 18:49:31 -0700]", "process": 27221, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 18:49:35 -0700]", "process": 27221, "levelname": "INFO", "message": "Stopping worker [27221]"}
+{"asctime": "[2023-07-06 18:49:35 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:49:35 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:49:35 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:49:35 -0700]", "process": 27221, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:49:35 -0700]", "process": 27221, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "INFO", "message": "Starting worker [27255]"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 18:57:41 -0700]", "process": 27255, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 18:57:45 -0700]", "process": 27255, "levelname": "INFO", "message": "Stopping worker [27255]"}
+{"asctime": "[2023-07-06 18:57:45 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:57:45 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 18:57:45 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:57:45 -0700]", "process": 27255, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 18:57:45 -0700]", "process": 27255, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "INFO", "message": "Starting worker [27282]"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 19:01:50 -0700]", "process": 27282, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 19:02:01 -0700]", "process": 27282, "levelname": "INFO", "message": "Stopping worker [27282]"}
+{"asctime": "[2023-07-06 19:02:01 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:02:01 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:02:01 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:02:01 -0700]", "process": 27282, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:02:01 -0700]", "process": 27282, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "INFO", "message": "Starting worker [27305]"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 19:03:12 -0700]", "process": 27305, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 19:03:17 -0700]", "process": 27305, "levelname": "INFO", "message": "Stopping worker [27305]"}
+{"asctime": "[2023-07-06 19:03:17 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:03:17 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:03:17 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:03:17 -0700]", "process": 27305, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:03:17 -0700]", "process": 27305, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "INFO", "message": "Starting worker [27326]"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 19:04:14 -0700]", "process": 27326, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 19:04:18 -0700]", "process": 27326, "levelname": "INFO", "message": "Stopping worker [27326]"}
+{"asctime": "[2023-07-06 19:04:18 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:04:18 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:04:18 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:04:18 -0700]", "process": 27326, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:04:18 -0700]", "process": 27326, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 19:04:48 -0700]", "process": 27347, "levelname": "INFO", "message": "Starting worker [27347]"}
+{"asctime": "[2023-07-06 19:05:01 -0700]", "process": 27347, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 19:05:03 -0700]", "process": 27347, "levelname": "INFO", "message": "Stopping worker [27347]"}
+{"asctime": "[2023-07-06 19:05:03 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:05:03 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:05:03 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:05:03 -0700]", "process": 27347, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:05:03 -0700]", "process": 27347, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "INFO", "message": "Starting worker [27386]"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 19:08:52 -0700]", "process": 27386, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 19:08:58 -0700]", "process": 27386, "levelname": "INFO", "message": "Stopping worker [27386]"}
+{"asctime": "[2023-07-06 19:08:58 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:08:58 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:08:58 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:08:58 -0700]", "process": 27386, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:08:58 -0700]", "process": 27386, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "INFO", "message": "Starting worker [27422]"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 19:11:08 -0700]", "process": 27422, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 19:11:37 -0700]", "process": 27422, "levelname": "INFO", "message": "Stopping worker [27422]"}
+{"asctime": "[2023-07-06 19:11:37 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:11:37 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:11:37 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:11:37 -0700]", "process": 27422, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:11:37 -0700]", "process": 27422, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "INFO", "message": "Starting worker [27452]"}
+{"asctime": "[2023-07-06 19:13:02 -0700]", "process": 27452, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 19:13:16 -0700]", "process": 27452, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 19:13:19 -0700]", "process": 27452, "levelname": "INFO", "message": "Stopping worker [27452]"}
+{"asctime": "[2023-07-06 19:13:19 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:13:19 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:13:19 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:13:19 -0700]", "process": 27452, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:13:19 -0700]", "process": 27452, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "INFO", "message": "Starting worker [27485]"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 19:14:37 -0700]", "process": 27485, "levelname": "INFO", "message": "websocket auth successfully"}
+{"asctime": "[2023-07-06 19:14:47 -0700]", "process": 27485, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 19:14:48 -0700]", "process": 27485, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 19:15:06 -0700]", "process": 27485, "levelname": "INFO", "message": "Stopping worker [27485]"}
+{"asctime": "[2023-07-06 19:15:06 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:15:06 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:15:06 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:15:06 -0700]", "process": 27485, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:15:06 -0700]", "process": 27485, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "INFO", "message": "Starting worker [27531]"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 19:16:40 -0700]", "process": 27531, "levelname": "INFO", "message": "websocket auth successfully"}
+{"asctime": "[2023-07-06 19:16:50 -0700]", "process": 27531, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 19:17:01 -0700]", "process": 27531, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 19:17:13 -0700]", "process": 27531, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 19:17:16 -0700]", "process": 27531, "levelname": "INFO", "message": "Stopping worker [27531]"}
+{"asctime": "[2023-07-06 19:17:16 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:17:16 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:17:16 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:17:16 -0700]", "process": 27531, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:17:16 -0700]", "process": 27531, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "INFO", "message": "Starting worker [27641]"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 19:23:31 -0700]", "process": 27641, "levelname": "INFO", "message": "websocket auth successfully"}
+{"asctime": "[2023-07-06 19:23:40 -0700]", "process": 27641, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 19:23:43 -0700]", "process": 27641, "levelname": "INFO", "message": "Stopping worker [27641]"}
+{"asctime": "[2023-07-06 19:23:43 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:23:43 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:23:43 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:23:43 -0700]", "process": 27641, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:23:43 -0700]", "process": 27641, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "INFO", "message": "Starting worker [27711]"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 19:32:18 -0700]", "process": 27711, "levelname": "INFO", "message": "websocket auth successfully"}
+{"asctime": "[2023-07-06 19:32:23 -0700]", "process": 27711, "levelname": "INFO", "message": "Stopping worker [27711]"}
+{"asctime": "[2023-07-06 19:32:23 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:32:23 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:32:23 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:32:23 -0700]", "process": 27711, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:32:23 -0700]", "process": 27711, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "INFO", "message": "Starting worker [27763]"}
+{"asctime": "[2023-07-06 19:34:07 -0700]", "process": 27763, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 19:34:08 -0700]", "process": 27763, "levelname": "INFO", "message": "websocket auth successfully"}
+{"asctime": "[2023-07-06 19:34:10 -0700]", "process": 27763, "levelname": "INFO", "message": "Stopping worker [27763]"}
+{"asctime": "[2023-07-06 19:34:10 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:34:10 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:34:10 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:34:10 -0700]", "process": 27763, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:34:10 -0700]", "process": 27763, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "INFO", "message": "Starting worker [27808]"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 19:37:06 -0700]", "process": 27808, "levelname": "INFO", "message": "websocket auth successfully"}
+{"asctime": "[2023-07-06 19:37:09 -0700]", "process": 27808, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 19:37:11 -0700]", "process": 27808, "levelname": "INFO", "message": "Stopping worker [27808]"}
+{"asctime": "[2023-07-06 19:37:11 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:37:11 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:37:11 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:37:11 -0700]", "process": 27808, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:37:11 -0700]", "process": 27808, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "INFO", "message": "Starting worker [27852]"}
+{"asctime": "[2023-07-06 19:41:16 -0700]", "process": 27852, "levelname": "INFO", "message": "websocket auth successfully"}
+{"asctime": "[2023-07-06 19:41:26 -0700]", "process": 27852, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 19:41:38 -0700]", "process": 27852, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 19:41:49 -0700]", "process": 27852, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 19:42:01 -0700]", "process": 27852, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 19:42:12 -0700]", "process": 27852, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 19:42:14 -0700]", "process": 27852, "levelname": "INFO", "message": "Stopping worker [27852]"}
+{"asctime": "[2023-07-06 19:42:14 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:42:14 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 19:42:14 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:42:14 -0700]", "process": 27852, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 19:42:14 -0700]", "process": 27852, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "INFO", "message": "Starting worker [29061]"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 22:01:18 -0700]", "process": 29061, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 22:03:57 -0700]", "process": 29061, "levelname": "INFO", "message": "Stopping worker [29061]"}
+{"asctime": "[2023-07-06 22:03:57 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:03:57 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:03:57 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:03:57 -0700]", "process": 29061, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:03:57 -0700]", "process": 29061, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 22:03:59 -0700]", "process": 29118, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 22:03:59 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 22:03:59 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 22:03:59 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:03:59 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:03:59 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 22:03:59 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 22:03:59 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 22:03:59 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 22:03:59 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 22:03:59 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 22:03:59 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 22:03:59 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 22:03:59 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:03:59 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:04:00 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 22:04:00 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 22:04:00 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 22:04:00 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 22:04:00 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 22:04:00 -0700]", "process": 29118, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 22:04:00 -0700]", "process": 29118, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 22:04:00 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 22:04:00 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 22:04:00 -0700]", "process": 29118, "levelname": "INFO", "message": "Starting worker [29118]"}
+{"asctime": "[2023-07-06 22:04:00 -0700]", "process": 29118, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 22:04:00 -0700]", "process": 29118, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 22:04:05 -0700]", "process": 29118, "levelname": "INFO", "message": "Stopping worker [29118]"}
+{"asctime": "[2023-07-06 22:04:05 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:04:05 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:04:05 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:04:05 -0700]", "process": 29118, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:04:05 -0700]", "process": 29118, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "INFO", "message": "Starting worker [29145]"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 22:05:53 -0700]", "process": 29145, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 22:05:58 -0700]", "process": 29145, "levelname": "INFO", "message": "Stopping worker [29145]"}
+{"asctime": "[2023-07-06 22:05:58 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:05:58 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:05:58 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:05:58 -0700]", "process": 29145, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:05:58 -0700]", "process": 29145, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "INFO", "message": "Starting worker [29173]"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 22:07:08 -0700]", "process": 29173, "levelname": "ERROR", "message": "websocket with edge process error"}
+{"asctime": "[2023-07-06 22:07:19 -0700]", "process": 29173, "levelname": "INFO", "message": "Stopping worker [29173]"}
+{"asctime": "[2023-07-06 22:07:19 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:07:19 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:07:19 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:07:19 -0700]", "process": 29173, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:07:19 -0700]", "process": 29173, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "INFO", "message": "Starting worker [29328]"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 22:09:41 -0700]", "process": 29328, "levelname": "INFO", "message": "websocket auth successfully"}
+{"asctime": "[2023-07-06 22:09:51 -0700]", "process": 29328, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 22:10:03 -0700]", "process": 29328, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 22:10:14 -0700]", "process": 29328, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 22:10:17 -0700]", "process": 29328, "levelname": "INFO", "message": "Stopping worker [29328]"}
+{"asctime": "[2023-07-06 22:10:17 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:10:17 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:10:17 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:10:17 -0700]", "process": 29328, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:10:17 -0700]", "process": 29328, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "INFO", "message": "Starting worker [29560]"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 22:13:33 -0700]", "process": 29560, "levelname": "INFO", "message": "websocket auth successfully"}
+{"asctime": "[2023-07-06 22:13:43 -0700]", "process": 29560, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 22:13:55 -0700]", "process": 29560, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 22:14:06 -0700]", "process": 29560, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 22:14:15 -0700]", "process": 29560, "levelname": "INFO", "message": "Stopping worker [29560]"}
+{"asctime": "[2023-07-06 22:14:15 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:14:15 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:14:15 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:14:15 -0700]", "process": 29560, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:14:15 -0700]", "process": 29560, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 22:15:59 -0700]", "process": 29823, "levelname": "INFO", "message": "Starting worker [29823]"}
+{"asctime": "[2023-07-06 22:16:00 -0700]", "process": 29823, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 22:16:00 -0700]", "process": 29823, "levelname": "INFO", "message": "websocket auth successfully"}
+{"asctime": "[2023-07-06 22:16:09 -0700]", "process": 29823, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 22:16:13 -0700]", "process": 29823, "levelname": "INFO", "message": "Stopping worker [29823]"}
+{"asctime": "[2023-07-06 22:16:13 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:16:13 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:16:13 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:16:13 -0700]", "process": 29823, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:16:13 -0700]", "process": 29823, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "INFO", "message": "Starting worker [30045]"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 22:22:00 -0700]", "process": 30045, "levelname": "INFO", "message": "websocket auth successfully"}
+{"asctime": "[2023-07-06 22:22:10 -0700]", "process": 30045, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 22:22:17 -0700]", "process": 30045, "levelname": "INFO", "message": "Stopping worker [30045]"}
+{"asctime": "[2023-07-06 22:22:17 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:22:17 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 22:22:17 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:22:17 -0700]", "process": 30045, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 22:22:17 -0700]", "process": 30045, "levelname": "INFO", "message": "Server Stopped"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "INFO", "message": "Goin' Fast @ http://localhost:84"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Sanic auto-reload: disabled"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Sanic debug mode: enabled"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.send"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.handle"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Disabling event: http.routing.before"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Disabling event: http.routing.after"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.response"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Disabling event: http.middleware.before"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Disabling event: http.middleware.after"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_body"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.exception"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.read_head"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.request"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.begin"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Disabling event: http.lifecycle.complete"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Triggering server events: server.init.before"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Dispatching signal: server.init.before"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "background process start"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "start connect cloud"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Triggering server events: server.init.after"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Dispatching signal: server.init.after"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "INFO", "message": "Starting worker [30412]"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "INFO", "message": "websocket to edge start"}
+{"asctime": "[2023-07-06 23:43:40 -0700]", "process": 30412, "levelname": "INFO", "message": "websocket auth successfully"}
+{"asctime": "[2023-07-06 23:43:50 -0700]", "process": 30412, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 23:44:02 -0700]", "process": 30412, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 23:44:14 -0700]", "process": 30412, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 23:44:26 -0700]", "process": 30412, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 23:44:38 -0700]", "process": 30412, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 23:44:49 -0700]", "process": 30412, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 23:45:01 -0700]", "process": 30412, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 23:45:13 -0700]", "process": 30412, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 23:45:25 -0700]", "process": 30412, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 23:45:36 -0700]", "process": 30412, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 23:45:48 -0700]", "process": 30412, "levelname": "DEBUG", "message": "heartbeat status report"}
+{"asctime": "[2023-07-06 23:45:54 -0700]", "process": 30412, "levelname": "INFO", "message": "Stopping worker [30412]"}
+{"asctime": "[2023-07-06 23:45:54 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.before"}
+{"asctime": "[2023-07-06 23:45:54 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.before"}
+{"asctime": "[2023-07-06 23:45:54 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Triggering server events: server.shutdown.after"}
+{"asctime": "[2023-07-06 23:45:54 -0700]", "process": 30412, "levelname": "DEBUG", "message": "Dispatching signal: server.shutdown.after"}
+{"asctime": "[2023-07-06 23:45:54 -0700]", "process": 30412, "levelname": "INFO", "message": "Server Stopped"}
